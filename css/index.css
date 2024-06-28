@@ -59,6 +59,7 @@ p.button {
     color: #484848;
     font-size: 25px;
     margin-left: 10px;
+    transition: 0.2s;
 }
 
 p.button:hover {
@@ -94,6 +95,7 @@ span.individual {
     display: inline-block;
     width: 45%;
     text-align: center;
+    transition: 0.3s;
 }
 
 span.individual:hover {
