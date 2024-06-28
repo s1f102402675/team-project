@@ -96,6 +96,10 @@ span.individual {
     text-align: center;
 }
 
+span.individual:hover {
+    opacity: 0.6;;
+}
+
 img {
     width: 70%;
 }
